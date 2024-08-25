@@ -1,0 +1,36 @@
+/* Styling for root */
+#root {
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1.5;
+  font-size: 1.5rem;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+/* Styling for Body */
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-height: 100vh;
+}
+
+/* Styling for Position to show tooltip */
+#place {
+  font-size: 1.2rem;
+  font-weight: 600;
+  background-color: #ffffff;
+}
+
+/* Tooltip bakcground color */
+#my-tooltip {
+  background-color: #493f1e;
+}
+
+/* Styling for Font and Background color */
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #bb9232;
+    background-color: #04132f;
+  }
+}

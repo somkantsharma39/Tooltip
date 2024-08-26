@@ -60,17 +60,4 @@ tooltip-project/
 └── README.md               # Project documentation
 ```
 
-## Contributing
-
-Feel free to submit issues or pull requests for new features, bug fixes, or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Happy Coding!
-```
-
-This version mentions the use of the `react-tooltip` library and provides a general overview of the project.

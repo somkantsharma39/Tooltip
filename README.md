@@ -1,7 +1,4 @@
-Here's an updated `README.md` file for your Tooltip project using the React Tooltip library:
-
-```markdown
-# Tooltip Project
+### Tooltip Project
 
 This ReactJS project demonstrates how to create a customizable tooltip using the `react-tooltip` library. The tooltip's position can be dynamically changed based on user input.
 
